@@ -1,0 +1,416 @@
+{
+  "1": {
+    "name": "Internal Medicine",
+    "specialties": {
+      "11": {
+        "name": "General Internal Medicine",
+        "codes": {
+          "1100": "General Internal Medicine"
+        }
+      },
+      "12": {
+        "name": "Cardiology",
+        "codes": {
+          "1200": "General Cardiology",
+          "1201": "Interventional Cardiology",
+          "1202": "Electrophysiology",
+          "1203": "Heart Failure and Transplant Cardiology",
+          "1204": "Structural Heart Disease"
+        }
+      },
+      "13": {
+        "name": "Pulmonology",
+        "codes": {
+          "1300": "General Pulmonology",
+          "1301": "Critical Care Medicine",
+          "1302": "Sleep Medicine",
+          "1303": "Interventional Pulmonology"
+        }
+      },
+      "14": {
+        "name": "Gastroenterology",
+        "codes": {
+          "1400": "General Gastroenterology",
+          "1401": "Hepatology",
+          "1402": "Advanced Endoscopy",
+          "1403": "Inflammatory Bowel Disease"
+        }
+      },
+      "15": {
+        "name": "Nephrology",
+        "codes": {
+          "1500": "General Nephrology",
+          "1501": "Transplant Nephrology",
+          "1502": "Interventional Nephrology"
+        }
+      },
+      "16": {
+        "name": "Endocrinology",
+        "codes": {
+          "1600": "General Endocrinology",
+          "1601": "Diabetes and Metabolism",
+          "1602": "Thyroid Disorders"
+        }
+      },
+      "17": {
+        "name": "Rheumatology",
+        "codes": {
+          "1700": "General Rheumatology"
+        }
+      },
+      "18": {
+        "name": "Hematology",
+        "codes": {
+          "1800": "General Hematology",
+          "1801": "Hematologic Oncology"
+        }
+      },
+      "19": {
+        "name": "Infectious Disease",
+        "codes": {
+          "1900": "General Infectious Disease"
+        }
+      }
+    }
+  },
+  "2": {
+    "name": "Surgery",
+    "specialties": {
+      "21": {
+        "name": "General Surgery",
+        "codes": {
+          "2100": "General Surgery",
+          "2101": "Trauma Surgery",
+          "2102": "Surgical Critical Care",
+          "2103": "Breast Surgery",
+          "2104": "Endocrine Surgery"
+        }
+      },
+      "22": {
+        "name": "Orthopedic Surgery",
+        "codes": {
+          "2200": "General Orthopedic Surgery",
+          "2201": "Sports Medicine Surgery",
+          "2202": "Spine Surgery",
+          "2203": "Hand Surgery",
+          "2204": "Joint Replacement Surgery",
+          "2205": "Pediatric Orthopedic Surgery",
+          "2206": "Orthopedic Trauma Surgery"
+        }
+      },
+      "23": {
+        "name": "Cardiothoracic Surgery",
+        "codes": {
+          "2300": "General Cardiothoracic Surgery",
+          "2301": "Cardiac Surgery",
+          "2302": "Thoracic Surgery"
+        }
+      },
+      "24": {
+        "name": "Neurosurgery",
+        "codes": {
+          "2400": "General Neurosurgery",
+          "2401": "Spine Neurosurgery",
+          "2402": "Pediatric Neurosurgery",
+          "2403": "Vascular Neurosurgery"
+        }
+      },
+      "25": {
+        "name": "Plastic Surgery",
+        "codes": {
+          "2500": "General Plastic Surgery",
+          "2501": "Reconstructive Surgery",
+          "2502": "Craniofacial Surgery",
+          "2503": "Hand Surgery"
+        }
+      },
+      "26": {
+        "name": "Vascular Surgery",
+        "codes": {
+          "2600": "General Vascular Surgery",
+          "2601": "Endovascular Surgery"
+        }
+      },
+      "27": {
+        "name": "Pediatric Surgery",
+        "codes": {
+          "2700": "General Pediatric Surgery"
+        }
+      },
+      "28": {
+        "name": "Colorectal Surgery",
+        "codes": {
+          "2800": "Colorectal Surgery"
+        }
+      },
+      "29": {
+        "name": "Surgical Oncology",
+        "codes": {
+          "2900": "Surgical Oncology"
+        }
+      }
+    }
+  },
+  "3": {
+    "name": "Pediatrics",
+    "specialties": {
+      "31": {
+        "name": "General Pediatrics",
+        "codes": {
+          "3100": "General Pediatrics"
+        }
+      },
+      "32": {
+        "name": "Pediatric Cardiology",
+        "codes": {
+          "3200": "General Pediatric Cardiology",
+          "3201": "Pediatric Interventional Cardiology"
+        }
+      },
+      "33": {
+        "name": "Pediatric Pulmonology",
+        "codes": {
+          "3300": "Pediatric Pulmonology"
+        }
+      },
+      "34": {
+        "name": "Pediatric Gastroenterology",
+        "codes": {
+          "3400": "Pediatric Gastroenterology"
+        }
+      },
+      "35": {
+        "name": "Pediatric Nephrology",
+        "codes": {
+          "3500": "Pediatric Nephrology"
+        }
+      },
+      "36": {
+        "name": "Pediatric Endocrinology",
+        "codes": {
+          "3600": "Pediatric Endocrinology"
+        }
+      },
+      "37": {
+        "name": "Neonatology",
+        "codes": {
+          "3700": "Neonatology"
+        }
+      },
+      "38": {
+        "name": "Pediatric Critical Care",
+        "codes": {
+          "3800": "Pediatric Critical Care"
+        }
+      },
+      "39": {
+        "name": "Pediatric Emergency Medicine",
+        "codes": {
+          "3900": "Pediatric Emergency Medicine"
+        }
+      }
+    }
+  },
+  "4": {
+    "name": "Neurosciences",
+    "specialties": {
+      "41": {
+        "name": "Neurology",
+        "codes": {
+          "4100": "General Neurology",
+          "4101": "Stroke/Vascular Neurology",
+          "4102": "Epilepsy",
+          "4103": "Movement Disorders",
+          "4104": "Neuromuscular Medicine",
+          "4105": "Neuro-Oncology",
+          "4106": "Headache Medicine"
+        }
+      },
+      "42": {
+        "name": "Psychiatry",
+        "codes": {
+          "4200": "General Psychiatry",
+          "4201": "Child and Adolescent Psychiatry",
+          "4202": "Addiction Psychiatry",
+          "4203": "Geriatric Psychiatry",
+          "4204": "Forensic Psychiatry"
+        }
+      }
+    }
+  },
+  "5": {
+    "name": "Women's Health",
+    "specialties": {
+      "51": {
+        "name": "Obstetrics and Gynecology",
+        "codes": {
+          "5100": "General OB/GYN",
+          "5101": "Maternal-Fetal Medicine",
+          "5102": "Reproductive Endocrinology and Infertility",
+          "5103": "Gynecologic Oncology",
+          "5104": "Urogynecology"
+        }
+      }
+    }
+  },
+  "6": {
+    "name": "Diagnostic Specialties",
+    "specialties": {
+      "61": {
+        "name": "Radiology",
+        "codes": {
+          "6100": "General Radiology",
+          "6101": "Neuroradiology",
+          "6102": "Musculoskeletal Radiology",
+          "6103": "Cardiovascular Radiology",
+          "6104": "Interventional Radiology",
+          "6105": "Pediatric Radiology",
+          "6106": "Nuclear Medicine"
+        }
+      },
+      "62": {
+        "name": "Pathology",
+        "codes": {
+          "6200": "General Pathology",
+          "6201": "Anatomic Pathology",
+          "6202": "Clinical Pathology",
+          "6203": "Hematopathology",
+          "6204": "Molecular Pathology"
+        }
+      },
+      "63": {
+        "name": "Laboratory Medicine",
+        "codes": {
+          "6300": "General Laboratory Medicine",
+          "6301": "Clinical Chemistry",
+          "6302": "Microbiology",
+          "6303": "Immunology"
+        }
+      }
+    }
+  },
+  "7": {
+    "name": "Emergency & Critical Care",
+    "specialties": {
+      "71": {
+        "name": "Emergency Medicine",
+        "codes": {
+          "7100": "General Emergency Medicine",
+          "7101": "Pediatric Emergency Medicine",
+          "7102": "Emergency Medical Services",
+          "7103": "Toxicology"
+        }
+      },
+      "72": {
+        "name": "Anesthesiology",
+        "codes": {
+          "7200": "General Anesthesiology",
+          "7201": "Cardiac Anesthesiology",
+          "7202": "Pediatric Anesthesiology",
+          "7203": "Neuroanesthesiology",
+          "7204": "Pain Medicine"
+        }
+      },
+      "73": {
+        "name": "Critical Care Medicine",
+        "codes": {
+          "7300": "General Critical Care"
+        }
+      }
+    }
+  },
+  "8": {
+    "name": "Specialized Care",
+    "specialties": {
+      "81": {
+        "name": "Ophthalmology",
+        "codes": {
+          "8100": "General Ophthalmology",
+          "8101": "Retina and Vitreous",
+          "8102": "Glaucoma",
+          "8103": "Cornea and External Disease",
+          "8104": "Pediatric Ophthalmology"
+        }
+      },
+      "82": {
+        "name": "Otolaryngology (ENT)",
+        "codes": {
+          "8200": "General ENT",
+          "8201": "Head and Neck Surgery",
+          "8202": "Rhinology",
+          "8203": "Otology/Neurotology",
+          "8204": "Pediatric ENT"
+        }
+      },
+      "83": {
+        "name": "Dermatology",
+        "codes": {
+          "8300": "General Dermatology",
+          "8301": "Dermatopathology",
+          "8302": "Procedural Dermatology",
+          "8303": "Pediatric Dermatology"
+        }
+      },
+      "84": {
+        "name": "Urology",
+        "codes": {
+          "8400": "General Urology",
+          "8401": "Urologic Oncology",
+          "8402": "Pediatric Urology",
+          "8403": "Female Pelvic Medicine"
+        }
+      },
+      "85": {
+        "name": "Physical Medicine and Rehabilitation",
+        "codes": {
+          "8500": "General PM&R",
+          "8501": "Spinal Cord Injury Medicine",
+          "8502": "Sports Medicine",
+          "8503": "Pain Medicine"
+        }
+      },
+      "86": {
+        "name": "Oncology",
+        "codes": {
+          "8600": "General Medical Oncology",
+          "8601": "Radiation Oncology",
+          "8602": "Gynecologic Oncology",
+          "8603": "Pediatric Oncology"
+        }
+      }
+    }
+  },
+  "9": {
+    "name": "Primary Care & Preventive Medicine",
+    "specialties": {
+      "91": {
+        "name": "Family Medicine",
+        "codes": {
+          "9100": "General Family Medicine",
+          "9101": "Sports Medicine",
+          "9102": "Geriatric Medicine"
+        }
+      },
+      "92": {
+        "name": "Preventive Medicine",
+        "codes": {
+          "9200": "General Preventive Medicine",
+          "9201": "Public Health",
+          "9202": "Occupational Medicine"
+        }
+      },
+      "93": {
+        "name": "Geriatrics",
+        "codes": {
+          "9300": "Geriatric Medicine"
+        }
+      },
+      "94": {
+        "name": "Palliative Care",
+        "codes": {
+          "9400": "Palliative Care Medicine"
+        }
+      }
+    }
+  }
+}
